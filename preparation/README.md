@@ -42,5 +42,5 @@ The two important pieces of information here are
 
 You are ready to work on your notebooks!
 
-## Every time you start your notebooks
-- Activate the python3 environment by running ``conda activate python3``
+## Every time you start your Jupyter service
+- In the Launcher, open the terminal and activate the python3 environment by running the command line instruction ``conda activate python3``
