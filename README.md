@@ -1,5 +1,5 @@
-# APPLIED OPERATIONS RESEARCH (AOR) 2022
-This is the official Git repository of the course Applied Operations Research 2022
+# APPLIED OPERATIONS RESEARCH (AOR)
+This is the official Git repository of the course Applied Operations Research
 at the Department of Mathematical Sciences, University of Copenhagen.
 At this directory you will find tutorials, lectures and exercises.
 
